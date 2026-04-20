@@ -122,8 +122,7 @@ Kernel programming practice
 
 
 👨‍💻 Author
-Gautam Krishna
-
+Girish Jayan S
 🚀 Future Improvements
 
 
